@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGrWQCnJmdA=",
+  "success": true,
+  "projectFilePath": "/home/chelo/Documents/Builds/CsharpProjects/TestProject1/TestProject1.csproj",
+  "expectedPackageFiles": [
+    "/home/chelo/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/chelo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/chelo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

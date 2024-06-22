@@ -47,36 +47,60 @@
 // // Example 2:
 // string firstWord="Hello";string lastWord="Example 2";Console.WriteLine(firstWord+" "+lastWord+"!");
 
-Random dice = new Random();
+// Random dice = new Random();
 
-int roll1 = dice.Next(1, 7);
-int roll2 = dice.Next(1, 7);
-int roll3 = dice.Next(1, 7);
+// int roll1 = dice.Next(1, 7);
+// int roll2 = dice.Next(1, 7);
+// int roll3 = dice.Next(1, 7);
 
-bool doubles = false;
-bool triples = false;
+// bool doublesOrTriples = false;
 
-int total = roll1 + roll2 + roll3;
+// int total = roll1 + roll2 + roll3;
 
-Console.WriteLine($"Dice roll: {roll1} {roll2} {roll3} = {total}");
+// Console.WriteLine($"Dice roll: {roll1} {roll2} {roll3} = {total}");
 
-if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
-{
-  if ((roll1 == roll2) && (roll2 == roll3))
-  {
-    Console.WriteLine("You rolled triples!  +6 bonus to total!");
-    total += 6;
-    triples = true;
-  }
-  else
-  {
-    Console.WriteLine("You rolled doubles!  +2 bonus to total!");
-    total += 2;
-    doubles = true;
-  }
-}
+// if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
+// {
+//   if ((roll1 == roll2) && (roll2 == roll3))
+//   {
+//     Console.WriteLine("You rolled triples!  +6 bonus to total!");
+//     total += 6;
+//     doublesOrTriples = true;
+//   }
+//   else
+//   {
+//     Console.WriteLine("You rolled doubles!  +2 bonus to total!");
+//     total += 2;
+//     doublesOrTriples = true;
+//   }
+// }
 
-if (doubles || triples)
-{
-  Console.WriteLine($"New Total: {total}");
-}
+// if (doublesOrTriples)
+// {
+//   Console.WriteLine($"New Total: {total}");
+// }
+
+// /*The high-level purpose of this code is to reverse a string
+//   and count the number of times a particular character appears.
+// */
+
+// string str = "The quick brown fox jumps over the lazy dog.";
+// // Conversts the message into the char array
+// char[] charMessage = str.ToCharArray();
+// // Reverse the chars
+// Array.Reverse(charMessage);
+// int x = 0;
+// // count the o's
+// foreach (char c in charMessage)
+// {
+//   if (c == 'o')
+//   {
+//     x++;
+//   }
+// }
+// // Convert it back to a string
+// string new_message = new String(charMessage);
+// // Print out
+// Console.WriteLine(new_message);
+// Console.WriteLine($"'o' appeared {x} times.");
+
