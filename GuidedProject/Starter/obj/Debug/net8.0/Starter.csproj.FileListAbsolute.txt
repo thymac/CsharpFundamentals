@@ -1,0 +1,14 @@
+/home/chelo/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/chelo/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/chelo/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/chelo/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/chelo/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/chelo/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
